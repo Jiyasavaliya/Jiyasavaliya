@@ -56,7 +56,9 @@ I'm learning and building innovative solutions in Data Science and native applic
  <a href="https://pypi.org/project/seaborn/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100" height="50"/>
 </a>
-
+<a href="https://www.microsoft.com/en-in/microsoft-365/free-office-online-for-the-web" target="_blank" rel="noreferrer">
+    <img src="https://logos-world.net/wp-content/uploads/2020/12/Office-365-Logo-2019-present.png" alt="Microsoft Office Logo" width="100" height="50"/>
+</a>
 
 
 </p>
