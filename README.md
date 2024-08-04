@@ -38,9 +38,6 @@ I'm learning and building innovative solutions in Data Science and native applic
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
   </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mwaskom/seaborn/main/doc/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="50"/>
-</a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   </a>
