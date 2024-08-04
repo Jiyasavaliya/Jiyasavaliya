@@ -48,10 +48,10 @@ I'm learning and building innovative solutions in Data Science and native applic
     <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="W3C HTML5 Logo" width="50" height="50"/>
 </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" height="70"/>
+    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" height="60"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="80" height="70"/>
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="80" height="60"/>
   </a>
 
 
