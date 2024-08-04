@@ -1,11 +1,7 @@
  <h1 align="center">Hi 👋, I'm Jiya Savaliya</h1>
 
-- 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning DataScience
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
-- ⚡ Fun fact: I'm comming to teen
+- 📫 How to reach me: jiyasavaliya55@gmail.com
   
 ### Connect with me:
 <div id="badges">
@@ -36,10 +32,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
   </a>
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
-
-
-<br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
