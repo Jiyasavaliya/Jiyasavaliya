@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, <span style="font-size: 0.8em;">I'm Jiya Savaliya</span></h1>
+<h1 align="left">Hi 👋, <span style="font-size: 0.2em;">I'm Jiya Savaliya</span></h1>
 
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: jiyasavaliya55@gmail.com
