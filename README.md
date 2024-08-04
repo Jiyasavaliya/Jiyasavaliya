@@ -36,7 +36,7 @@ I'm learning and building innovative solutions in Data Science and native applic
   </a>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
-  </a>
+</a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50"/>
   </a>
