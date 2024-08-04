@@ -25,6 +25,9 @@ I'm learning and building innovative solutions in Data Science and native applic
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" height="60"/>
+  </a>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="50" height="50"/>
@@ -38,6 +41,9 @@ I'm learning and building innovative solutions in Data Science and native applic
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
   </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="80" height="60"/>
+  </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   </a>
@@ -47,12 +53,6 @@ I'm learning and building innovative solutions in Data Science and native applic
   <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer">
     <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="W3C HTML5 Logo" width="50" height="50"/>
 </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" height="60"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="80" height="60"/>
-  </a>
 
 
 </p>
