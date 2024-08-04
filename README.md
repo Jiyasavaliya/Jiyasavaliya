@@ -35,4 +35,16 @@ I'm learning and building innovative solutions Data Science and native applicati
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
   </a>
-</p>
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://numpy.org/images/logos/numpy/numpy-logo.svg" alt="NumPy" width="50" height="50"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="50" height="50"/>
+  </a>
+</p>           
