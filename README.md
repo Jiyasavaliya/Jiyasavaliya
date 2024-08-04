@@ -34,8 +34,8 @@ I'm learning and building innovative solutions in Data Science and native applic
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
   </a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2019_logo.svg/512px-Microsoft_Excel_2019_logo.svg.png" alt="Excel" width="50" height="50"/>
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="Create_an_illustration_of_a_stylized_Microsoft_Exc.png" alt="Stylized Excel Logo" width="100" height="100"/>
 </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50"/>
