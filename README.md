@@ -51,7 +51,7 @@ I'm learning and building innovative solutions in Data Science and native applic
     <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="100" height="50"/>
 </a>
   <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer">
-    <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="W3C HTML5 Logo" width="80" height="80"/>
+    <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="W3C HTML5 Logo" width="50" height="50"/>
 </a>
 
 
