@@ -48,8 +48,5 @@ I'm learning and building innovative solutions in Data Science and native applic
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50"/>
   </a>
 
-## Languages and Tools:
-![Python](url_to_python_logo) ![C](url_to_c_logo) ![MySQL](url_to_mysql_logo) ![Kafka](url_to_kafka_logo) ![Docker](url_to_docker_logo) ![NumPy](url_to_numpy_logo) ![Pandas](url_to_pandas_logo) ![Matplotlib](url_to_matplotlib_logo) ![Excel](https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg)
-
 
 </p>
