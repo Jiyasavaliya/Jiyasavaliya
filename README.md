@@ -5,7 +5,7 @@ I'm learning and building innovative solutions in Data Science and native applic
 
 - 🌱 I’m currently learning Data Science
 
-- 👨‍💻 My projects are available at: [GitHub](https://github.com/)
+- 👨‍💻 My projects are available at: [GitHub](https://github.com/ProgrammingLanguage1111)
 
 - 📫 How to reach me: jiyasavaliya55@gmail.com
 
