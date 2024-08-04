@@ -2,9 +2,13 @@
 
 I'm learning and building innovative solutions in Data Science and native application development. I enjoy exploring new technologies and using my skills to solve real-world problems.
 
+
 - 🌱 I’m currently learning Data Science
+
 - 👨‍💻 My projects are available at: [GitHub](https://github.com/)
+
 - 📫 How to reach me: jiyasavaliya55@gmail.com
+
 
 ### Connect with me:
 <div id="badges">
