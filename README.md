@@ -1,10 +1,9 @@
 <h1 align="left" style="font-size: 1em;">Hi 👋, <span style="font-size: 0.6em;">I'm Jiya Savaliya</span></h1>
 
-I'm learning and building innovative solutions Data Science and native application development. I enjoy exploring new technologies and using my skills to solve real-world problems.
- 
+I'm learning and building innovative solutions in Data Science and native application development. I enjoy exploring new technologies and using my skills to solve real-world problems.
 
 - 🌱 I’m currently learning Data Science
-- 👨‍💻 My projects are available at: https://github.com/
+- 👨‍💻 My projects are available at: [GitHub](https://github.com/)
 - 📫 How to reach me: jiyasavaliya55@gmail.com
 
 ### Connect with me:
@@ -42,9 +41,9 @@ I'm learning and building innovative solutions Data Science and native applicati
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://numpy.org/images/logos/numpy/numpy-logo.svg" alt="NumPy" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="50" height="50"/>
   </a>
-</p>           
+</p>
