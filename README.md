@@ -37,15 +37,13 @@ I'm learning and building innovative solutions in Data Science and native applic
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   </a>
+  <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="50" height="50"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50"/>
   </a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/832_microsoft_excel.jpg" alt="Excel Logo" width="50" height="50"/>
-</a>
-
+</p>
   
 </p>
