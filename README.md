@@ -42,10 +42,10 @@ I'm learning and building innovative solutions in Data Science and native applic
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" height="80"/>
+    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" height="70"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="80" height="80"/>
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="80" height="70"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="100" height="50"/>
