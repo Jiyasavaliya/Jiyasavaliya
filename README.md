@@ -1,7 +1,7 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+ <h1 align="center">Hi 👋, I'm Jiya Savaliya</h1>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning DataScience
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: axiftaj@gmail.com
 - 😄 My website: https://thetechbrothers.net
@@ -9,7 +9,7 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/axiftaj">
+  <a href="https://github.com/jiyasavaliya">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
