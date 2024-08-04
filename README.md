@@ -1,14 +1,14 @@
- <h1 align="center">Hi 👋, I'm Jiya Savaliya</h1>
+<h1 align="left">Hi 👋, I'm Jiya Savaliya</h1>
 
-- 🌱 I’m currently learning DataScience
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me: jiyasavaliya55@gmail.com
-  
+
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/jiyasavaliya">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  </div>
+</div>
 
 ### Languages and Tools:
 
@@ -31,4 +31,4 @@
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
   </a>
-
+</p>
