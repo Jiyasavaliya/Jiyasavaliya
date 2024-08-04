@@ -48,5 +48,6 @@ I'm learning and building innovative solutions in Data Science and native applic
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50"/>
   </a>
 
+![Excel](https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg)
   
 </p>
