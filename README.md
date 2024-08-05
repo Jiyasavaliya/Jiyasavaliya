@@ -1,9 +1,13 @@
 <h1 align="left" style="font-size: 1em;">Hi 👋, <span style="font-size: 0.6em;">I'm Jiya Savaliya</span></h1>
 
+## 🚀 About Me
+
 I'm learning and building innovative solutions in Data Science and native application development. I enjoy exploring new technologies and using my skills to solve real-world problems.
 
 
 - 🌱 I’m currently learning Data Science
+
+- 💬 Ask me about coding
 
 - 👨‍💻 My project nd task are available at: [GitHub](https://github.com/ProgrammingLanguage1111)
 
