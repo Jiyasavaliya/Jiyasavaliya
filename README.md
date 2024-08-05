@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 
+
 I'm learning and building innovative solutions in Data Science and native application development. I enjoy exploring new technologies and using my skills to solve real-world problems.
 
 
