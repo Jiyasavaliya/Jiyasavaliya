@@ -62,7 +62,7 @@ I'm learning and building innovative solutions in Data Science and native applic
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100" height="50"/>
 </a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282018%E2%80%93present%29.svg.png" alt="Excel Logo" width="100" height="100"/>
+    <img src="E:\Download\images.png" alt="Excel Logo" width="100" height="100"/>
 </a>
 
 </p>
