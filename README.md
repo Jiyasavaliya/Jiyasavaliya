@@ -61,8 +61,5 @@ I'm learning and building innovative solutions in Data Science and native applic
  <a href="https://pypi.org/project/seaborn/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100" height="50"/>
 </a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="E:\Download\images.png" alt="Excel Logo" width="100" height="100"/>
-</a>
 
 </p>
