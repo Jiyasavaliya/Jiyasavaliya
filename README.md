@@ -18,7 +18,7 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/jiyasavaliya">
-    <img src="https://img.shields.io/badge/Github-whihub&logoColor=black" alt="Github Badge" width="80" height="25"/>
+    <img src="https://img.shields.io/badge/Github-whihub&logoColor=black"  width="80" height="25"/>
   </a>
 </div>
 
