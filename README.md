@@ -18,7 +18,7 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/jiyasavaliya">
-    <img src="https://img.shields.io/badge/Github-whihub&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-whihub&logoColor=black" alt="Github Badge" width="50" height="50"/>
   </a>
 </div>
 
@@ -60,9 +60,6 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
 </a>
  <a href="https://pypi.org/project/seaborn/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100" height="50"/>
-</a>
-<a href="https://www.w3schools.com/excel/" target="_blank" rel="noreferrer">
-    <img src="https://chat.openai.com/mnt/data/Create_a_Microsoft_Excel_logo_that_closely_resembl.png" alt="Excel Logo" width="100" height="100"/>
 </a>
 
 
