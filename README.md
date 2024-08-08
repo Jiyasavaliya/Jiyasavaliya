@@ -61,9 +61,10 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
  <a href="https://pypi.org/project/seaborn/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100" height="50"/>
 </a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel">
-    <img src="https://i.pinimg.com/originals/1b/db/8a/1bdb8ac897512116cbac58ffe7560d82.png" width="65" height="25"/>
+<a href="https://www.w3schools.com/excel/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Microsoft_Excel_2013-2019_logo.svg/2048px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel Logo" width="100" height="100"/>
 </a>
+
 
 
 </p>
