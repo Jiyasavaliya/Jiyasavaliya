@@ -18,7 +18,7 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/jiyasavaliya">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-whihub&logoColor=black" alt="Github Badge"/>
   </a>
 </div>
 
@@ -62,7 +62,7 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100" height="50"/>
 </a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel">
-    <img src="https://e7.pngegg.com/pngimages/820/303/png-clipart-excel-logo-microsoft-excel-microsoft-office-macro-application-software-icon-excel-text-logo-thumbnail.png" width="65" height="25"/>
+    <img src="https://i.pinimg.com/originals/1b/db/8a/1bdb8ac897512116cbac58ffe7560d82.png" width="65" height="25"/>
 </a>
 
 
