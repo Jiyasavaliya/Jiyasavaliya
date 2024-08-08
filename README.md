@@ -62,7 +62,7 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100" height="50"/>
 </a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel">
-    <img src="https://i.pinimg.com/564x/c8/82/46/c8824641d531c4b6c7e5837234752e1d.jpg" width="75" height="35"/>
+    <img src="https://i.pinimg.com/564x/c8/82/46/c8824641d531c4b6c7e5837234752e1d.jpg" width="65" height="25"/>
 </a>
 
 
