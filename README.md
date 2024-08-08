@@ -22,11 +22,6 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
   </a>
 </div>
 
-<div id="badges">
-  <a href="https://github.com/jiyasavaliya">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Microsoft_Excel_2013-2019_logo.svg/2048px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel Logo" width="90" height="20" style="background-color: #FFFFFF; border-radius: 3px; padding: 2px;"/>
-  </a>
-</div>
 
 
 ### Languages and Tools:
