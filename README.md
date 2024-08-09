@@ -22,16 +22,6 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
   </a>
 </div>
 
- <style>
-        .logo-container {
-            display: flex;
-            gap: 10px; /* Adds 10 pixels of space between each logo */
-            align-items: center;
-        }
-        .logo {
-            display: block;
-        }
-    </style>
 ### Languages and Tools:
 
 <p align="left">
