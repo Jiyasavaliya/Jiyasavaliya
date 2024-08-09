@@ -67,8 +67,7 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
 </a>
 
 <a href="https://www.w3schools.com/excel/" target="_blank" rel="noreferrer">
-    <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/12/microsoft-excel-header.jpg
-" alt="Excel Logo" width="50" height="25"/>
+    <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/12/microsoft-excel-header.jpg" alt="Excel Logo" width="50" height="25"/>
 </a>
 
 </p>
