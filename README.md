@@ -37,6 +37,9 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="50" height="50"/>
   </a>
+<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="43" height="38"/>
+</a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
   </a>
@@ -64,9 +67,6 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
 
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
     <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/12/microsoft-excel-header.jpg" alt="Excel Logo" width="43" height="38"/>
-</a>
-<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="43" height="38"/>
 </a>
 
 
