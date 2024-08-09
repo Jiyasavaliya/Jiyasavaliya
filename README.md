@@ -63,11 +63,12 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
 </a>
 
 <a href="https://www.w3schools.com/excel/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" alt="Excel Logo" width="50" height="25"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7z9aNzOYaLvXtsfELRueBll3tqQFcde7pKgE2lV_wC1Uru4hAB-UamQNl5y8UQeLksQ&usqp=CAU" alt="Excel Logo" width="50" height="25"/>
 </a>
 
 <a href="https://www.w3schools.com/excel/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7z9aNzOYaLvXtsfELRueBll3tqQFcde7pKgE2lV_wC1Uru4hAB-UamQNl5y8UQeLksQ&usqp=CAU" alt="Excel Logo" width="50" height="25"/>
+    <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/12/microsoft-excel-header.jpg
+" alt="Excel Logo" width="50" height="25"/>
 </a>
 
 </p>
