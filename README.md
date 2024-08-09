@@ -64,5 +64,13 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel">
     <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/12/microsoft-excel-header.jpg" alt="Excel Logo" width="43" height="38"/>
 </a>
+<a href="  https://www.w3schools.com/cpp/cpp_intro.asp">
+    <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/12/microsoft-excel-header.jpg" alt="Excel Logo" width="43" height="38"/>
+</a>
+
+<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
+    <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/12/microsoft-excel-header.jpg" alt="Excel Logo" width="43" height="38"/>
+</a>
+
 
 </p>
