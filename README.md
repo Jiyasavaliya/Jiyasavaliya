@@ -63,7 +63,7 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
 </a>
 
 <a href="https://www.w3schools.com/excel/" target="_blank" rel="noreferrer">
-    <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="Excel Logo" width="100" height="50"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv7E2RsgGkf55JzNoFGOgoyuDX8I031c_RLA&s" alt="Excel Logo" width="100" height="50"/>
 </a>
 
 
