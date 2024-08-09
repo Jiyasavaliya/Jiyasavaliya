@@ -55,7 +55,7 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="100" height="50"/>
 </a>
-  <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer">
+  <a href="https://www.geeksforgeeks.org/html-introduction/"_blank" rel="noreferrer">
     <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="W3C HTML5 Logo" width="50" height="50"/>
 </a>
  <a href="https://pypi.org/project/seaborn/" target="_blank" rel="noreferrer">
