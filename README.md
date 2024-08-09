@@ -66,7 +66,7 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
     <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/12/microsoft-excel-header.jpg" alt="Excel Logo" width="43" height="38"/>
 </a>
 <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
-    <img src="your_cpp_logo_url_here" alt="C++ Logo" width="43" height="38"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="43" height="38"/>
 </a>
 
 
