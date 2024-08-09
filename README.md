@@ -22,6 +22,16 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
   </a>
 </div>
 
+ <style>
+        .logo-container {
+            display: flex;
+            gap: 10px; /* Adds 10 pixels of space between each logo */
+            align-items: center;
+        }
+        .logo {
+            display: block;
+        }
+    </style>
 ### Languages and Tools:
 
 <p align="left">
@@ -32,7 +42,6 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" height="60"/>
-  </a>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="50" height="50"/>
