@@ -60,5 +60,7 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
  <a href="https://pypi.org/project/seaborn/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100" height="50"/>
 </a>
-
+<a href="https://www.geeksforgeeks.org/html-introduction/"_blank" rel="noreferrer">
+    <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="W3C HTML5 Logo" width="50" height="50"/>
+</a>
 </p>
