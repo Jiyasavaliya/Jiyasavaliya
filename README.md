@@ -36,9 +36,9 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="50" height="50"/>
-  </a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
+  </a>  
    <a href="https://pypi.org/project/seaborn/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100" height="50"/>
 </a>
@@ -51,9 +51,11 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
   </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="50" height="50"/>
   </a>
+  
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
   </a>
