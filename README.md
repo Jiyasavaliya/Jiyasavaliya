@@ -36,12 +36,12 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="100" height="50"/>
-</a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="50" height="50"/>
   </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="100" height="50"/>
+</a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
   </a>
