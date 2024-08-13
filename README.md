@@ -28,7 +28,7 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" height="60"/>
@@ -62,17 +62,6 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
 </a>
  <a href="https://pypi.org/project/seaborn/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100" height="50"/>
-</a>
-
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
-    <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/12/microsoft-excel-header.jpg" alt="Excel Logo" width="43" height="38"/>
-</a>
-
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE6ChiFnarQEcyIFDw8xuIblrL9-huv-e1Fg&s" alt="Excel Logo" width="43" height="38"/>
-</a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQYOaFM6GHDmGBH7ELXl3F3XD80P_70nlbww&s" alt="Excel Logo" width="43" height="38"/>
 </a>
 
 </p>
