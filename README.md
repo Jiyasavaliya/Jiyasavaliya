@@ -71,4 +71,8 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE6ChiFnarQEcyIFDw8xuIblrL9-huv-e1Fg&s" alt="Excel Logo" width="43" height="38"/>
 </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQYOaFM6GHDmGBH7ELXl3F3XD80P_70nlbww&s" alt="Excel Logo" width="43" height="38"/>
+</a>
+
 </p>
