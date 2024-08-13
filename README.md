@@ -57,11 +57,11 @@ I'm learning and building innovative solutions in Data Science. I enjoy explorin
 <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="42" height="48"/>
 </a>
+  <a href="https://www.geeksforgeeks.org/html-introduction/"_blank" rel="noreferrer">
+    <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="W3C HTML5 Logo" width="50" height="50"/>
+</a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="80" height="60"/>
   </a>
-  
-<a href="https://www.geeksforgeeks.org/html-introduction/"_blank" rel="noreferrer">
-    <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="W3C HTML5 Logo" width="50" height="50"/>
-</a>
+
 </p>
