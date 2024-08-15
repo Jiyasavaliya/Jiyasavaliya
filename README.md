@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-<p style="font-size: 0.1em; font-weight: 60;">
+<p style="font-size: 0.2em; font-weight: 90;">
 Welcome to my GitHub profile! I'm a passionate Data Science learner focused on leveraging technology to create impactful solutions. I thrive on solving complex challenges and continuously learning new tools.  focused on leveraging technology to drive innovation and solve complex problems. I am continuously exploring new tools and techniques to stay at the forefront of my field.
 
 <br>
