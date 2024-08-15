@@ -33,6 +33,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
 
 ## 🛠️ Technologies & Tools
 
+<div align="center" style="display: flex; gap: 15px;">
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -76,6 +77,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="80" height="60"/>
   </a>
 </p>
+</div>
 
 ChatGPT said:
 ---
