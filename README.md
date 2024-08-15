@@ -5,13 +5,9 @@
 
 ---
 
+🚀 About Me
 
-
-<h2 style="font-size: 5em; font-weight: 600;">🚀 About Me</h2>
-
-<div style="font-size: 5em; font-weight: 800; line-height: 2.1;">
-  Welcome to my GitHub profile! I'm a passionate Data Science learner focused on leveraging technology to create impactful solutions. I thrive on solving complex challenges and continuously learning new tools. I am dedicated to leveraging technology to drive innovation and solve complex problems, and I am continuously exploring new tools and techniques to stay at the forefront of my field.
-</div>
+Welcome to my GitHub profile! I'm a passionate Data Science learner focused on leveraging technology to create impactful solutions. I thrive on solving complex challenges and continuously learning new tools. I am dedicated to leveraging technology to drive innovation and solve complex problems, and I am continuously exploring new tools and techniques to stay at the forefront of my field.
 
  <br>
  
