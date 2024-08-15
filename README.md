@@ -2,7 +2,7 @@
 
 **Innovator | Data Scientist | Developer**
 
-Crafting innovative solutions through data and technology.
+*Crafting innovative solutions through data and technology.*
 
 ---
 
