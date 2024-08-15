@@ -9,7 +9,7 @@
 
 <h2 style="font-size: 2em; font-weight: 600;">🚀 About Me</h2>
 
-<div style="font-size: 1.5em; font-weight: 400; line-height: 1.6;">
+<div style="font-size: 2em; font-weight: 600; line-height: 1.8;">
   Welcome to my GitHub profile! I'm a passionate Data Science learner focused on leveraging technology to create impactful solutions. I thrive on solving complex challenges and continuously learning new tools. I am dedicated to leveraging technology to drive innovation and solve complex problems, and I am continuously exploring new tools and techniques to stay at the forefront of my field.
 </div>
 
