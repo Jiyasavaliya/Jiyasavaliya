@@ -9,12 +9,13 @@
 
 Welcome to my GitHub profile! I'm a passionate Data Science learner focused on leveraging technology to create impactful solutions. I thrive on solving complex challenges and continuously learning new tools. I am dedicated to leveraging technology to drive innovation and solve complex problems, and I am continuously exploring new tools and techniques to stay at the forefront of my field.
 
- <br>
  
 - 🌱 Currently Learning Data Science
 
 - 💬 Let's Discuss Coding 
+
 - 📂 Explore My Projects [Check out my GitHub](https://github.com/ProgrammingLanguage1111)
+
 - 📫 How to reach me [jiyasavaliya55@gmail.com](mailto:jiyasavaliya55@gmail.com)
 
 ---
