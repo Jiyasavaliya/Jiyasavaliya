@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+
 
 <h2 style="font-size: 2em; font-weight: 600;">🚀 About Me</h2>
 
