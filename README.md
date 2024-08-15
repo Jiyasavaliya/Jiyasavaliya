@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
 ## 🌐 Connect with Me
 
 <div align="center" style="display: flex; gap: 15px;">
-  <a href="https://www.linkedin.com/in/jiyasavaliya/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/jiyasavaliya">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 12px;"/>
   </a>
   <a href="https://github.com/jiyasavaliya" target="_blank" style="text-decoration: none;">
