@@ -1,13 +1,15 @@
-  <h1 style="font-size: 1em; font-weight: 500;">👋 Hello, I'm Jiya Savaliya!</h1>
-
 <div align="center" slinear-gradient(135deg, #1E3A8A, #3B82F6); padding: 40px; border-radius:15 px; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);">  
+  <h1 style="font-size: 1em; font-weight: 500;">👋 Hello, I'm Jiya Savaliya!</h1>
   <p style="font-size: 1.5em; font-weight: 700;">🔍 Data Science Enthusiast | 💻 Developer | 📊 Problem Solver</p>
 </div>
 
 ---
 
-🚀 About Me
 
+🚀 About Me
+<div align="center" slinear-gradient(135deg, #1E3A8A, #3B82F6); padding: 40px; border-radius:15 px; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);">  
+
+<p style="font-size: 1.5em; font-weight: 700;">
 Welcome to my GitHub profile! I'm a passionate Data Science learner focused on leveraging technology to create impactful solutions. I thrive on solving complex challenges and continuously learning new tools. I am dedicated to leveraging technology to drive innovation and solve complex problems, and I am continuously exploring new tools and techniques to stay at the forefront of my field.
 
 - 🌱 Currently Learning Data Science
@@ -19,6 +21,8 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
 - 📫 How to reach me [jiyasavaliya55@gmail.com](mailto:jiyasavaliya55@gmail.com)
 
 ---
+</p>
+</div>
 
 ## 🌐 Connect with Me
 
