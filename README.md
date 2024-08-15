@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" slinear-gradient(135deg, #1E3A8A, #3B82F6); padding: 40px; border-radius:15 px; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);">
   <h1 style="font-size: 1em; font-weight: 500;">👋 Hello, I'm Jiya Savaliya!</h1>
   <p style="font-size: 1.5em; font-weight: 700;">🔍 Data Science Enthusiast | 💻 Developer | 📊 Problem Solver</p>
 </div>
@@ -7,7 +7,11 @@
 
 ## 🚀 About Me
 
-Welcome to my GitHub profile! I'm a passionate Data Science learner focused on leveraging technology to create impactful solutions. I thrive on solving complex challenges and continuously learning new tools.  focused on leveraging technology to drive innovation and solve complex problems. I am continuously exploring new tools and techniques to stay at the forefront of my field.
+<h2 style="font-size: 2em; font-weight: 600;">🚀 About Me</h2>
+
+<div style="font-size: 1.5em; font-weight: 400; line-height: 1.6;">
+  Welcome to my GitHub profile! I'm a passionate Data Science learner focused on leveraging technology to create impactful solutions. I thrive on solving complex challenges and continuously learning new tools. I am dedicated to leveraging technology to drive innovation and solve complex problems, and I am continuously exploring new tools and techniques to stay at the forefront of my field.
+</div>
 
  <br>
  
