@@ -78,7 +78,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
 </div>
 
 <br> 
-
+<br>
 <div align="center" style="background: #e8e8e8; padding: 20px; border-radius: 12px; color: #0d0d0d; text-align: center; font-family: 'Caveat', cursive;">
   <p style="font-size: 1.3em; font-weight: 900;">Thank you for visiting my profile! Feel free to connect and explore my work.</p>
 </div>
