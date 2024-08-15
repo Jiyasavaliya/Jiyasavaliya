@@ -7,12 +7,12 @@
 
 ## 🚀 About Me
 
-<div style="font-size: 1.25em; font-weight: 500;">
+<div style="font-size: 1.4em; font-weight: 700;">
 Welcome to my GitHub profile! I'm a passionate Data Science learner focused on leveraging technology to create impactful solutions. I thrive on solving complex challenges and continuously learning new tools.  focused on leveraging technology to drive innovation and solve complex problems. I am continuously exploring new tools and techniques to stay at the forefront of my field.
 </div>
 
-<br>
-
+ <br><br>
+ 
 - 🌱 **Currently Learning :** Data Science
 - 💬 **Let's Discuss :** Coding 
 - 📂 **Explore My Projects:** [Check out my GitHub](https://github.com/ProgrammingLanguage1111)
