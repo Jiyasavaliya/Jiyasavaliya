@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
 ## 🛠️ Technologies & Tools
 
 <div align="center" style="display: flex; gap: 15px;">
-<p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
@@ -76,13 +75,8 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="80" height="60"/>
   </a>
-</p>
 </div>
 
-ChatGPT said:
----
-
-<!-- Footer Section -->
 <div align="center" style="background: #f9f9f9; padding: 20px; border-radius: 12px; color: #333; text-align: center;">
   <p style="font-size: 1em; font-weight: 400;">Thank you for visiting my profile! Feel free to connect and explore my work.</p>
 </div>
