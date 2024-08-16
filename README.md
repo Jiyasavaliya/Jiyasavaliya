@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
   </a>
 
   <a href="https://linkedin/jiyasavaliya" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&style=flat-square" alt="LinkedIn" style="border-radius: 15px; width: 80px; height: auto;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&style=flat-square" alt="LinkedIn" style="border-radius: 15px; width: 83px; height: auto;"/>
   </a>
 
 </div>
