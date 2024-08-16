@@ -5,7 +5,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamsinh31&label=Profile%20views&color=0e75b6&style=flat" alt="sohamsinh31" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jiyasavaliya&label=Profile%20views&color=0e75b6&style=flat" alt="jiyasavaliya" /> </p>
 
 
 🚀 About Me
