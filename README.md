@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
 
 - 💬 Let's Discuss Coding 
 
-- 📂 Explore My Task [Check out my GitHub](https://github.com/ProgrammingLanguage1111)
-
 - 📫 How to reach me [jiyasavaliya55@gmail.com](mailto:jiyasavaliya55@gmail.com)
 
 ---
