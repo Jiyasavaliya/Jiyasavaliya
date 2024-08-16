@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
 <div align="center" style="display: flex; gap: 15px;">
 
   <a href="https://github.com/jiyasavaliya" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&style=flat-square" alt="GitHub" style="border-radius: 15px; width: 75px; height: auto;"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&style=flat-square" alt="GitHub" style="border-radius: 15px; width: 80px; height: auto;"/>
   </a>
 
   <a href="https://linkedin/jiyasavaliya" target="_blank" style="text-decoration: none;">
