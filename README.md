@@ -1,5 +1,5 @@
 <div align="center" slinear-gradient(135deg, #1E3A8A, #3B82F6); padding: 40px; border-radius:15 px; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);">  
-  <h1 style="font-size: 1em; font-weight: 500;">👋 Hello, I'm Jiya Savaliya!</h1>
+  <h1 style="font-size: 1em; font-weight: 500;"> Hello, I'm Jiya Savaliya!</h1>
   <p style="font-size: 1.5em; font-weight: 700;">🔍 Data Science Enthusiast | 💻 Developer | 📊 Problem Solver</p>
 </div>
 
