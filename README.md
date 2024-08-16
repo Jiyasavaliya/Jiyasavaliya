@@ -8,7 +8,7 @@
 
 🚀 About Me
 
-<h4>
+<h3>
 Welcome to my GitHub profile! I'm a passionate Data Science learner focused on leveraging technology to create impactful solutions. I thrive on solving complex challenges and continuously learning new tools. I am dedicated to leveraging technology to drive innovation and solve complex problems, and I am continuously exploring new tools and techniques to stay at the forefront of my field.
 
 - 🌱 Currently Learning Data Science
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
 - 📫 How to reach me [jiyasavaliya55@gmail.com](mailto:jiyasavaliya55@gmail.com)
 
 ---
-</h4>
+</h3>
 ## 🌐 Connect with Me
 
 <div align="center" style="display: flex; gap: 15px;">
