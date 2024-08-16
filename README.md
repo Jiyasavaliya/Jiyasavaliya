@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
 ---
 
 <h3 align="left"> 🛠️ Technologies & Tools </h3>
-
+<br>
 <div align="center" style="display: flex; gap: 19px;">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
