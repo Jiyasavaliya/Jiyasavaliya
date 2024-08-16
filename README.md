@@ -19,8 +19,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
 - 📫 How to reach me [jiyasavaliya55@gmail.com](mailto:jiyasavaliya55@gmail.com)
 
 ---
-<h3 align="left">🌐 Connect with Me
-</h3>
+<h3 align="left">🌐 Connect with Me </h3>
 
 <div align="center" style="display: flex; gap: 15px;">
   <a href="https://github.com/jiyasavaliya" target="_blank" style="text-decoration: none;">
@@ -34,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science learner focused on l
 
 ---
 
- 🛠️ Technologies & Tools
+<h3 align="left"> 🛠️ Technologies & Tools </h3>
 
 <div align="center" style="display: flex; gap: 19px;">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
